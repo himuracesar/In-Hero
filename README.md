@@ -1,7 +1,7 @@
 # In-Hero
 My first project in the M.S. Programming and Development Videogames. It's a bullet hell.
 
-[![InHeroToGif.md.gif](https://s4.gifyu.com/images/InHeroToGif.md.gif)](https://gifyu.com/image/S3cK7)
+[url=https://gifyu.com/image/S3cK7][img]https://s4.gifyu.com/images/InHeroToGif.gif[/img][/url]
 
 In Hero it's a bullet hell game in alpha version and was my first project in M.S. Programming and Development Videogames at Coco School Mexico.
 
